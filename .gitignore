@@ -1,0 +1,12 @@
+Temp/
+Library/
+obj/
+xcode/
+
+Unity-Xcode-Embed-Framework.userprefs
+
+Unity-Xcode-Embed-Framework.sln
+
+Assembly-CSharp.csproj
+
+Assembly-CSharp-Editor.csproj
