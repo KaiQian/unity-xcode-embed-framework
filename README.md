@@ -1,4 +1,4 @@
-Unity does not suppport adding a embed framework to exported Xcode project.
+Unity does not suppport adding an embed framework to exported Xcode project.
 
 This is for it.
 
